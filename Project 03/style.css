@@ -2,3 +2,8 @@
     border: none;
     height: 410px;
   }
+
+  /* Example CSS for search bar */
+.form-control {
+  width: 210px; /* Adjust width as needed */
+}
